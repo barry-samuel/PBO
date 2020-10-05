@@ -1,5 +1,5 @@
 # PBO
-Pemrograman Berbasis Objek
+Pemrograman Berorientasi Objek
 
 ## Index:
 
