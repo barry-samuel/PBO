@@ -11,5 +11,5 @@ Pemrograman Berorientasi Objek
 - **P5** = Pertemuan 5
 - **P6** = Pertemuan 6
 - **P7** = Pertemuan 7
-- **UTS** = Pertemuan 8 (UTS)
-- **P9** = Pertemuan 9
+- **UTS** = Ujian Tengah Semester
+- **P8** = Pertemuan 8
