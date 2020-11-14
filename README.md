@@ -10,3 +10,6 @@ Pemrograman Berorientasi Objek
 - **P4** = Pertemuan 4
 - **P5** = Pertemuan 5
 - **P6** = Pertemuan 6
+- **P7** = Pertemuan 7
+- **UTS** = Pertemuan 8 (UTS)
+- **P9** = Pertemuan 9
